@@ -1,18 +1,3 @@
 {
-    "bypassVersion": 1,
-    "libs": "https://github.com/Rogico/ByPass/releases/download/BP/dyzmod.zip",
-    "gamesList": [
-    {
-      "title": "النسخه العالميه",
-      "package": "com.tencent.ig",
-      "version": "4.0.0",
-      "status": "امن"
-    },
-    {
-      "title": "النسخه الكوريه",
-      "package": "com.pubg.krmobile",
-      "version": "4.0.0",
-      "status": "امن"
-    },
-  ]
+    "bypassVersion": 1
 }
