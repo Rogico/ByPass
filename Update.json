@@ -1,10 +1,10 @@
 
   "app_config": {
     "update": {
-      "latestVersionCode": 440,
-      "latestVersionName": "4.4.0",
-      "apkUrl": "https://example.com/app-release.apk",
-      "updateMessage": "تم تحديث اللودر إلى إصدار VIP جديد:\n- تحسين الحماية بشكل كامل\n- إضافة واجهة تحديث احترافية\n- إصلاح مشاكل الخروج المفاجئ",
+      "latestVersionCode": 441,
+      "latestVersionName": "4.4.1",
+      "apkUrl": "https://github.com/Rogico/ByPass/releases/download/BP/doctorloader.apk",
+      "updateMessage": "تم تحديث شكل اللودر لشكل أقوي وأفخم وكذلك تطوير الحماية .... استمتعوا",
       "forceUpdate": false
     },
     "protection": {
