@@ -5,7 +5,7 @@
       "latestVersionName": "4.4.1",
       "apkUrl": "https://github.com/Rogico/ByPass/releases/download/BP/doctorloader.apk",
       "updateMessage": "تم تحديث شكل اللودر لشكل أقوي وأفخم وكذلك تطوير الحماية .... استمتعوا",
-      "forceUpdate": false
+      "forceUpdate": true
     },
     "protection": {
       "bypassVersion": 20,
