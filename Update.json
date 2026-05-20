@@ -1,7 +1,44 @@
-{
-  "apk_url": "https://github.com/Rogico/ByPass/releases/download/BP/doctorloader.apk",
-  "update_title": "Doctor Loader Update",
-  "update_message": "New Loader Ui and features, New Era begins...",
-  "update_size": "15.56 MB",
-  "version_name": "4.4.1"
+
+  "app_config": {
+    "update": {
+      "latestVersionCode": 440,
+      "latestVersionName": "4.4.0",
+      "apkUrl": "https://example.com/app-release.apk",
+      "updateMessage": "تم تحديث اللودر إلى إصدار VIP جديد:\n- تحسين الحماية بشكل كامل\n- إضافة واجهة تحديث احترافية\n- إصلاح مشاكل الخروج المفاجئ",
+      "forceUpdate": false
+    },
+    "protection": {
+      "bypassVersion": 20,
+      "zipUrl": "https://github.com/Rogico/ByPass/releases/download/BP/doctor2.zip",
+      "isProtectionSafe": true,
+      "protectionNote": "الحماية حالياً آمنة جداً (Safe)"
+    },
+    "server_status": {
+      "isMaintenance": false,
+      "maintenanceMessage": "السيرفر تحت الصيانة حالياً لتحديث ملفات الباي باس.. سنعود خلال دقائق."
+    },
+    "links": {
+      "telegram": "https://t.me/drloader98",
+      "owner": "https://t.me/drloader98",
+      "store": "https://t.me/drloader98",
+      "channel_news": "https://t.me/drloader98"
+    },
+    "ui_texts": {
+      "splash_welcome": "أهلاً بك في DOCTOR LOADER - تم تحديث الحماية",
+      "login_note": "ملاحظة: تأكد من تشغيل اللعبة من داخل اللودر حصراً",
+      "marquee_news": "آخر الأخبار: تم إضافة حماية جديدة.. استمتع باللعب الآمن!",
+      "footer_text": "إصدار الحماية: V4.4 | مطور بواسطة DOCTOR LOADER",
+      "dialog_welcome_title": "تنبيه الأمان",
+      "dialog_welcome_msg": "يرجى عدم تفعيل ميزات الهاك في اللوبي (الساحة) لتجنب كشف الحساب.",
+      "login_btn_text": "تسجيل دخول VIP",
+      "license_hint": "أدخل كود الاشتراك هنا...",
+      "buy_button_text": "شراء كود جديد"
+    },
+    "features_control": {
+      "show_esp": true,
+      "show_aimbot": true,
+      "show_memory": true,
+      "max_fps": 120
+    }
+  }
 }
